@@ -6,6 +6,7 @@ This small tool helps you calculate the matching width or height for a given asp
 
 ## Preview
 
+![App preview](Screenshot%202024-04-26%20092237.png)
 
 ## Features
 
