@@ -6,8 +6,6 @@ This small tool helps you calculate the matching width or height for a given asp
 
 ## Preview
 
-![App Screenshot](./Screenshot 2024-04-26 092237.png)
-
 ## Features
 
 - Live calculation: enter width or height and the other value updates automatically.
